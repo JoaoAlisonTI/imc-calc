@@ -42,7 +42,8 @@ O projeto pede para o usuário sua altura e peso (utilize vírgula), com isso é
 
 ---
 <br>
-## :memo: Licença
+
+##  📝 Licença
 
 Esse projeto está sob a licença MIT.
 
